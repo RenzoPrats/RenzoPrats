@@ -1,6 +1,6 @@
 ### Hello! I'm Renzo Prats
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning data struct and algorithms 
+- 🌱 I’m currently learning data structure and algorithms 
 
 <div align="center">
   <a href="https://github.com/RenzoPrats">
