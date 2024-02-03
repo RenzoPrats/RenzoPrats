@@ -1,5 +1,4 @@
 ### Hello! I'm Renzo Prats
-- 🌱 I’m currently learning data structure and algorithms 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Renzo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
